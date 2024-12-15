@@ -38,8 +38,7 @@ A simple and secure Python script to generate random passwords. This project pro
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/farhat-1203/Password-Generator.git
-    cd google-translate-script
-    ```
+        ```
 2. **Run the script**:
     ```bash
     python3 new_GUI.py
